@@ -1,0 +1,23 @@
+{
+  "rows": 1000,
+  "missing_counts": {
+    "upc": 0,
+    "title": 0,
+    "category": 0,
+    "price_gbp": 0,
+    "rating": 0,
+    "availability": 0,
+    "stock_quantity": 0,
+    "review_count": 0,
+    "description": 2,
+    "product_url": 0,
+    "image_url": 0,
+    "scraped_at_utc": 0
+  },
+  "problems": [],
+  "passed": true,
+  "catalog_pages": 50,
+  "discovered_product_urls": 1000,
+  "failed_product_requests": 0,
+  "complete_extraction": true
+}

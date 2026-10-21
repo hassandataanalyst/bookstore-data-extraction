@@ -1,0 +1,11 @@
+Metric,Value
+total_books,1000.0
+total_categories,50.0
+average_price_gbp,35.07
+median_price_gbp,35.98
+minimum_price_gbp,10.0
+maximum_price_gbp,59.99
+average_rating,2.92
+total_stock_units,8585.0
+missing_descriptions,2.0
+duplicate_upcs,0.0
